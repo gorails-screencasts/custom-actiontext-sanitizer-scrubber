@@ -27,3 +27,5 @@ document.addEventListener("turbo:load", () => {
 })
 import './channels/**/*_channel.js'
 import * as bootstrap from "bootstrap"
+import "trix"
+import "@rails/actiontext"
